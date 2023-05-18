@@ -1,0 +1,8 @@
+git init
+git add .
+git commit -m "comentario"
+git status
+git remote add "x" "URL"
+git remote
+git push -u "x" "branch"
+git log
